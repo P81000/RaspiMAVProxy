@@ -1,5 +1,11 @@
 ![GitHub Actions](https://github.com/ardupilot/MAVProxy/actions/workflows/windows_build.yml/badge.svg)
 
+
+ALL RIGHTS RESERVED TO:
+https://github.com/ArduPilot/MAVProxy
+https://github.com/ArduPilot/mavlink
+https://github.com/ArduPilot/pymavlink
+
 MAVProxy
 
 This is a MAVLink ground station written in python. 
